@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(lightgreen,aqua) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading{
+    width: 100%;
+    font-size: 30px;
+    background-color: lavenderblush;
+    border-radius: 15px;
+}
+.label{
+    color: black;
+    font-size: 20px;
+}
+
+#camera , #result
+{
+  border: 2px double black;
+  width: 360px;
+  height: 270px; 
+  margin-top: 20px;
+}
+
+#status, #update_emoji{
+    font-size: x-large;
+}
